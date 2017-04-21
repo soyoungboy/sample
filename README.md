@@ -1,0 +1,4 @@
+# sample
+RecycleView左右滑动
+
+DownloadService调用DownLoadManager实现应用下载安装
