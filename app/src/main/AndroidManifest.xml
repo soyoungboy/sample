@@ -22,6 +22,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".ui.activity.TopicActivity"></activity>
+        <activity android:name=".ui.activity.HiveProgressViewActivity"/>
 
         <service android:name=".download.DownloadService"></service>
     </application>
